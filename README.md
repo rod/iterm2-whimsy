@@ -2,7 +2,7 @@
 
 # whimsy-iterm2
 
-> A waggish theme for [iTerm2](https://www.iterm2.com)
+> A whimsical theme for [iTerm2](https://www.iterm2.com)
 
 ## Install
 1. Download [Whimsy.itermcolors](Whimsy.itermcolors)
